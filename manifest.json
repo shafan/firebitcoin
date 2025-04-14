@@ -5,7 +5,7 @@
     "name" :  "Pierre Galvez",
     "url": "https://github.com/shafan/firebitcoin"
   },
-  "version": "0.1.2",
+  "version": "0.1.3",
 
   "description": "Affichage de la valeur du Bitcoin de la plateforme Paymium.",
 
